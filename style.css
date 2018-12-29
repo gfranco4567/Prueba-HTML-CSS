@@ -31,3 +31,13 @@
 .carousel-inner img {
   margin: auto;
 }
+
+.fondosuave{
+  background-color:rgba(0, 138, 152, 0.55);
+  margin-top:2rem;
+  margin-bottom: 2rem;
+  padding-left:0rem;
+  padding-right:0rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
